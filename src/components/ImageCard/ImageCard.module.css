@@ -1,0 +1,6 @@
+.ImageCard {
+    width: 100%;
+  height: 250px; /* Sabit bir yükseklik verelim */
+  object-fit: cover; /* Resim yamulmadan alanı doldurur */
+  display: block;
+}
